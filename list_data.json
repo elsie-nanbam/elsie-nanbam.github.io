@@ -24,25 +24,5 @@
 			"Location": "Abuja, Nigeria",
 			"Period": "January 2018 - November 2018"
 		}
-	],
-	"Education": [
-		{
-			"School": "University of California, Berkeley",
-			"Course": "Master of Information Management and Systems",
-			"location": "Berkeley, California",
-			"Period": "2023 - 2025"
-		},
-		{
-			"School": "University of Jos, Jos",
-			"Course": "Bachelor of Science (Eduaction) Mathematics",
-			"location": "Jos, Plateau",
-			"Period": "2012 - 2017"
-		},
-		{
-			"School": "Our Lady of Apostles Girls' Secondary School, Akwanga",
-			"Course": "Secondary School (O Levels)",
-			"location": "Akwanga, Nasarawa",
-			"Period": "2006 - 2012"
-		}
-	]		
-}
+	]
+}	
